@@ -1,4 +1,4 @@
-# livei chat
+# live chat
 
 To start your Phoenix server:
 
